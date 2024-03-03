@@ -1,0 +1,14 @@
+li {
+  list-style-type: none;
+  margin: 8px;
+  cursor: pointer;
+  padding: 5px;
+}
+.pagination {
+  display: flex;
+
+}
+
+.active {
+  background-color: aquamarine;
+}
