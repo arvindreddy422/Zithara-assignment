@@ -1,5 +1,6 @@
 # Assignment
 
+![Screenshot 2024-03-03 163122](https://github.com/arvindreddy422/Zithara-assignment/assets/87334226/63a20752-b01b-4f30-8d31-5bb0fff032f3)
 
 
 Create .env in api(Backend)
